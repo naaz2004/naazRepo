@@ -1,0 +1,3 @@
+name:naaz
+class:5th sem
+clg:gwpt
